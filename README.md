@@ -45,6 +45,7 @@ Boasting over 9+ years of IT experience in e-commerce, investments, banking and 
   <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api?username=Uvii&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" alt="Yuva Kishore Dommaraju's GitHub Stats" />
 </a>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uvii&" alt="Uvii" /></p>
 
 
 ## 🛸 Check this out
