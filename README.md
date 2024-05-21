@@ -1,6 +1,12 @@
 # Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" /> ✌️ 
 
-## My name is ***Yuva Kishore, Dommaraju*** <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" />
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Uvii&label=Profile%20views&color=brightgreen&style=flat" alt="ykDommaraju" /> </p> -->
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Uvii&style=for-the-badge">
+</a>
+
+## Myself ***Yuva Kishore, Dommaraju*** <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" /> 
 
 > I'm currently working as a Senior Software Engineer at Fidelity Investments. I'm handling Account Opening space here.
 
