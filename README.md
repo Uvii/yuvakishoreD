@@ -3,7 +3,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Uvii&label=Profile%20views&color=brightgreen&style=flat" alt="ykDommaraju" /> </p> -->
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Uvii&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Uvii&label=My%20Repo%20Accessed&style=for-the-badge">
 </a>
 
 ## Myself ***Yuva Kishore, Dommaraju*** <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" /> 
@@ -57,3 +57,11 @@ Boasting over 9+ years of IT experience in e-commerce, investments, banking and 
 <a href="https://github.com/tejeshreddy/competitive-programming">
 <img  align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/pin/?username=tejeshreddy&repo=competitive-programming&border_color=02D892&bg_color=1d1f21&title_color=C8D1D9&text_color=8B949E&icon_color=12D892" />
 </a>
+
+<!-- Badging with svg and code versions without using third party library -->
+
+<!-- [![npm version](https://img.shields.io/npm/v/recyclerlistview.svg)](https://www.npmjs.com/package/recyclerlistview)
+
+[![appveyor](https://ci.appveyor.com/api/projects/status/uwnp3r49127esj7k/branch/master?svg=true)](https://ci.appveyor.com/project/naqvitalha/recyclerlistview/branch/master)
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0) -->
